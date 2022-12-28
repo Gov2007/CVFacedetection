@@ -1,1 +1,1 @@
-# CVFacedetection
+# PRO-C106-Teacher-Boilerplate
